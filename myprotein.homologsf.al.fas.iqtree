@@ -1,0 +1,411 @@
+IQ-TREE 2.3.6 built Aug  1 2024
+
+Input file name: /home/bio312-user/lab05-s1-kvsantos/myprotein/myprotein.homologsf.al.fas
+Type of analysis: ModelFinder + tree reconstruction + ultrafast bootstrap (1000 replicates)
+Random seed number: 277230
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+To cite ModelFinder please use: 
+
+Subha Kalyaanamoorthy, Bui Quang Minh, Thomas KF Wong, Arndt von Haeseler,
+and Lars S Jermiin (2017) ModelFinder: Fast model selection for
+accurate phylogenetic estimates. Nature Methods, 14:587–589.
+https://doi.org/10.1038/nmeth.4285
+
+Since you used ultrafast bootstrap (UFBoot) please also cite: 
+
+Diep Thi Hoang, Olga Chernomor, Arndt von Haeseler, Bui Quang Minh,
+and Le Sy Vinh (2018) UFBoot2: Improving the ultrafast bootstrap
+approximation. Mol. Biol. Evol., 35:518–522.
+https://doi.org/10.1093/molbev/msx281
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 39 sequences with 1496 amino-acid sites
+Number of constant sites: 389 (= 26.0027% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 389 (= 26.0027% of all sites)
+Number of parsimony informative sites: 995
+Number of distinct site patterns: 1256
+
+ModelFinder
+-----------
+
+Best-fit model according to BIC: Q.plant+I+R4
+
+List of models sorted by BIC scores: 
+
+Model                  LogL         AIC      w-AIC        AICc     w-AICc         BIC      w-BIC
+Q.plant+I+R4     -31974.101   64112.202 - 1.27e-13   64121.835 - 1.66e-12   64547.667 +    0.976
+Q.plant+R4       -31981.443   64124.886 - 2.24e-16   64134.280 -  3.3e-15   64555.040 -   0.0244
+Q.plant+F+I+R4   -31925.407   64052.814 +    0.999   64067.594 +    0.999   64589.180 - 9.44e-10
+Q.plant+F+R4     -31933.292   64066.584 -  0.00102   64081.064 -  0.00119   64597.639 - 1.37e-11
+JTT+F+I+R4       -31995.002   64192.004 - 5.96e-31   64206.784 - 5.95e-31   64728.369 - 5.63e-40
+JTT+F+R4         -32000.093   64200.186 - 9.96e-33   64214.667 - 1.16e-32   64731.241 - 1.34e-40
+JTT+I+R4         -32068.809   64301.619 - 9.38e-55   64311.252 - 1.23e-53   64737.084 - 7.21e-42
+JTT+R4           -32073.294   64308.588 - 2.88e-56   64317.982 - 4.25e-55   64738.742 - 3.15e-42
+JTTDCMut+F+I+R4  -32000.891   64203.781 - 1.65e-33   64218.562 - 1.65e-33   64740.147 - 1.56e-42
+JTTDCMut+F+R4    -32005.392   64210.784 - 4.98e-35   64225.264 - 5.78e-35   64741.839 - 6.69e-43
+JTTDCMut+I+R4    -32075.110   64314.220 - 1.72e-57   64323.853 - 2.26e-56   64749.685 - 1.32e-44
+JTTDCMut+R4      -32078.979   64319.958 - 9.77e-59   64329.353 - 1.44e-57   64750.112 - 1.07e-44
+Q.insect+I+R4    -32076.128   64316.257 - 6.22e-58   64325.890 - 8.15e-57   64751.722 - 4.78e-45
+Q.insect+R4      -32081.524   64325.049 - 7.66e-60   64334.444 - 1.13e-58   64755.203 - 8.38e-46
+Q.insect+F+I+R4  -32016.318   64234.636 - 3.29e-40   64249.416 - 3.29e-40   64771.001 - 3.11e-49
+Q.insect+F+R4    -32021.706   64243.412 - 4.09e-42   64257.893 - 4.75e-42   64774.467 -  5.5e-50
+Q.mammal+I+R4    -32138.449   64440.898 - 5.35e-85   64450.532 - 7.01e-84   64876.363 - 4.11e-72
+Q.mammal+R4      -32146.318   64454.637 - 5.56e-88   64464.031 - 8.21e-87   64884.791 - 6.08e-74
+Q.yeast+F+I+R4   -32087.402   64376.805 - 4.42e-71   64391.585 - 4.42e-71   64913.170 - 4.18e-80
+Q.yeast+F+R4     -32092.086   64384.171 - 1.11e-72   64398.652 - 1.29e-72   64915.226 -  1.5e-80
+Q.mammal+F+I+R4  -32130.965   64463.930 - 5.33e-90   64478.711 - 5.33e-90   65000.296 - 5.04e-99
+Q.mammal+F+R4    -32138.489   64476.978 - 7.82e-93   64491.459 - 9.09e-93   65008.033 - 1.05e-100
+LG+F+I+R4        -32160.173   64522.346 - 1.1e-102   64537.126 - 1.1e-102   65058.711 - 1.04e-111
+LG+F+R4          -32165.361   64530.721 - 1.67e-104   64545.202 - 1.94e-104   65061.776 - 2.25e-112
+Q.pfam+F+I+R4    -32162.829   64527.657 - 7.74e-104   64542.438 - 7.74e-104   65064.023 - 7.31e-113
+Q.pfam+F+R4      -32168.387   64536.773 - 8.11e-106   64551.253 - 9.43e-106   65067.828 - 1.09e-113
+Q.yeast+I+R4     -32249.891   64663.781 - 2.14e-133   64673.415 - 2.8e-132   65099.246 - 1.64e-120
+Q.yeast+R4       -32254.862   64671.725 - 4.02e-135   64681.120 - 5.95e-134   65101.880 - 4.4e-121
+Q.pfam+I+R4      -32259.414   64682.828 - 1.56e-137   64692.461 - 2.05e-136   65118.293 - 1.2e-124
+Q.pfam+R4        -32264.524   64691.048 - 2.56e-139   64700.443 - 3.79e-138   65121.203 - 2.8e-125
+LG+I+R4          -32265.832   64695.663 - 2.55e-140   64705.297 - 3.34e-139   65131.128 - 1.96e-127
+LG+R4            -32270.679   64703.358 - 5.44e-142   64712.752 - 8.04e-141   65133.512 - 5.95e-128
+mtInv+F+I+R4     -32199.379   64600.758 - 1.04e-119   64615.539 - 1.03e-119   65137.124 - 9.78e-129
+mtInv+F+R4       -32205.096   64610.192 - 9.25e-122   64624.673 - 1.08e-121   65141.248 - 1.24e-129
+LG+R5            -32269.087   64704.173 - 3.62e-142   64714.049 - 4.2e-141   65144.949 - 1.96e-130
+LG+I+R5          -32265.713   64699.425 - 3.89e-141   64709.546 -   4e-140   65145.511 - 1.48e-130
+Q.bird+I+R4      -32273.775   64711.549 - 9.06e-144   64721.183 - 1.19e-142   65147.014 - 6.96e-131
+Q.bird+R4        -32283.010   64728.019 - 2.4e-147   64737.414 - 3.55e-146   65158.174 - 2.63e-133
+LG+I+R3          -32289.243   64738.485 - 1.28e-149   64747.644 - 2.13e-148   65163.329 - 1.99e-134
+LG+G4            -32304.195   64760.389 - 2.25e-154   64768.637 - 5.89e-153   65163.991 - 1.43e-134
+LG+I+G4          -32302.974   64759.949 - 2.8e-154   64768.420 - 6.56e-153   65168.861 - 1.26e-135
+LG+R3            -32311.684   64781.369 - 6.25e-159   64790.295 - 1.17e-157   65200.902 - 1.38e-142
+mtMet+F+I+R4     -32250.589   64703.179 - 5.95e-142   64717.959 - 5.95e-142   65239.544 - 5.62e-151
+mtMet+F+R4       -32256.864   64713.727 - 3.05e-144   64728.208 - 3.54e-144   65244.782 - 4.1e-152
+Q.bird+F+I+R4    -32262.815   64727.631 - 2.92e-147   64742.411 - 2.92e-147   65263.996 - 2.76e-156
+Q.bird+F+R4      -32271.495   64742.990 - 1.35e-150   64757.471 - 1.57e-150   65274.045 - 1.81e-158
+WAG+F+I+R4       -32272.848   64747.696 - 1.28e-151   64762.477 - 1.28e-151   65284.062 - 1.21e-160
+WAG+F+R4         -32277.468   64754.935 - 3.43e-153   64769.415 - 3.99e-153   65285.990 - 4.62e-161
+WAG+I+R4         -32348.625   64861.251 - 2.82e-176   64870.884 - 3.69e-175   65296.716 - 2.16e-163
+WAG+R4           -32352.648   64867.297 - 1.37e-177   64876.691 - 2.02e-176   65297.451 - 1.5e-163
+LG+I+R2          -32393.479   64942.958 - 5.1e-194   64951.655 - 1.07e-192   65357.181 - 1.61e-176
+VT+R4            -32402.983   64967.965 - 1.89e-199   64977.360 - 2.8e-198   65398.120 - 2.07e-185
+VT+I+R4          -32401.185   64966.371 - 4.2e-199   64976.004 - 5.51e-198   65401.836 - 3.23e-186
+VT+F+R4          -32340.680   64881.360 - 1.21e-180   64895.840 - 1.41e-180   65412.415 - 1.63e-188
+VT+F+I+R4        -32338.536   64879.072 - 3.8e-180   64893.852 - 3.8e-180   65415.437 - 3.59e-189
+cpREV+F+R4       -32386.776   64973.553 - 1.16e-200   64988.033 - 1.35e-200   65504.608 - 1.56e-208
+cpREV+F+I+R4     -32384.022   64970.044 - 6.69e-200   64984.825 - 6.69e-200   65506.410 - 6.32e-209
+Dayhoff+F+I+R4   -32385.086   64972.172 - 2.31e-200   64986.952 - 2.31e-200   65508.537 - 2.18e-209
+mtREV+F+I+R4     -32385.743   64973.486 - 1.2e-200   64988.267 - 1.2e-200   65509.852 - 1.13e-209
+DCMut+F+I+R4     -32387.153   64976.306 - 2.92e-201   64991.086 - 2.92e-201   65512.671 - 2.76e-210
+mtREV+F+R4       -32392.847   64985.695 - 2.67e-203   65000.175 - 3.11e-203   65516.750 - 3.59e-211
+Dayhoff+F+R4     -32394.055   64988.110 - 7.99e-204   65002.590 - 9.28e-204   65519.165 - 1.07e-211
+DCMut+F+R4       -32396.346   64992.691 - 8.09e-205   65007.172 - 9.39e-205   65523.746 - 1.09e-212
+HIVb+F+I+R4      -32422.554   65047.108 - 1.23e-216   65061.889 - 1.23e-216   65583.474 - 1.17e-225
+LG+R2            -32516.681   65187.363 - 4.32e-247   65195.834 - 1.01e-245   65596.275 - 1.94e-228
+HIVb+F+R4        -32432.951   65065.903 - 1.02e-220   65080.383 - 1.19e-220   65596.958 - 1.38e-228
+rtREV+F+I+R4     -32433.764   65069.527 - 1.67e-221   65084.308 - 1.67e-221   65605.893 - 1.58e-230
+rtREV+F+R4       -32438.429   65076.857 - 4.28e-223   65091.337 - 4.97e-223   65607.912 - 5.75e-231
+mtZOA+F+I+R4     -32438.227   65078.454 - 1.93e-223   65093.234 - 1.93e-223   65614.819 - 1.82e-232
+mtZOA+F+R4       -32445.632   65091.264 - 3.18e-226   65105.745 - 3.7e-226   65622.319 - 4.28e-234
+cpREV+R4         -32521.002   65204.004 - 1.05e-250   65213.398 - 1.55e-249   65634.158 - 1.15e-236
+cpREV+I+R4       -32518.609   65201.218 - 4.23e-250   65210.852 - 5.55e-249   65636.683 - 3.25e-237
+Dayhoff+I+R4     -32520.923   65205.846 - 4.19e-251   65215.479 - 5.49e-250   65641.311 - 3.22e-238
+DCMut+I+R4       -32523.336   65210.671 - 3.75e-252   65220.305 - 4.92e-251   65646.136 - 2.88e-239
+Dayhoff+R4       -32528.886   65219.772 - 3.96e-254   65229.167 - 5.85e-253   65649.927 - 4.33e-240
+DCMut+R4         -32531.590   65225.180 - 2.65e-255   65234.575 - 3.92e-254   65655.335 - 2.9e-241
+mtVer+F+I+R4     -32517.788   65237.577 - 5.39e-258   65252.357 - 5.39e-258   65773.942 - 5.09e-267
+mtVer+F+R4       -32527.295   65254.591 - 1.09e-261   65269.071 - 1.27e-261   65785.646 - 1.46e-269
+FLU+F+I+R4       -32562.938   65327.876 - 1.33e-277   65342.656 - 1.33e-277   65864.241 - 1.26e-286
+FLU+F+R4         -32572.080   65344.160 - 3.87e-281   65358.640 - 4.49e-281   65875.215 - 5.2e-289
+rtREV+I+R4       -32665.741   65495.482 - 5.35e-314   65505.116 - 7.01e-313   65930.948 - 4.11e-301
+rtREV+R4         -32670.942   65503.885 - 8.01e-316   65513.280 - 1.18e-314   65934.040 - 8.76e-302
+HIVb+I+R4        -32668.779   65501.558 - 2.56e-315   65511.191 - 3.36e-314   65937.023 - 1.97e-302
+HIVb+R4          -32676.676   65515.352 - 2.59e-318   65524.746 - 3.83e-317   65945.506 - 2.83e-304
+FLU+I+R4         -32766.068   65696.136 -        0   65705.770 -        0   66131.601 -        0
+FLU+R4           -32772.835   65707.671 -        0   65717.065 -        0   66137.825 -        0
+PMB+R4           -32834.093   65830.187 -        0   65839.581 -        0   66260.341 -        0
+PMB+I+R4         -32830.941   65825.882 -        0   65835.515 -        0   66261.347 -        0
+Blosum62+R4      -32866.408   65894.816 -        0   65904.211 -        0   66324.971 -        0
+Blosum62+I+R4    -32863.431   65890.863 -        0   65900.496 -        0   66326.328 -        0
+FLAVI+F+I+R4     -32806.119   65814.238 -        0   65829.018 -        0   66350.604 -        0
+PMB+F+R4         -32816.808   65833.617 -        0   65848.097 -        0   66364.672 -        0
+PMB+F+I+R4       -32813.352   65828.705 -        0   65843.485 -        0   66365.070 -        0
+FLAVI+F+R4       -32821.742   65843.483 -        0   65857.963 -        0   66374.538 -        0
+Blosum62+F+R4    -32827.547   65855.095 -        0   65869.575 -        0   66386.150 -        0
+Blosum62+F+I+R4  -32824.541   65851.082 -        0   65865.862 -        0   66387.447 -        0
+mtMAM+F+I+R4     -32883.692   65969.383 -        0   65984.164 -        0   66505.749 -        0
+mtMAM+F+R4       -32899.496   65998.991 -        0   66013.472 -        0   66530.046 -        0
+mtART+F+I+R4     -32904.881   66011.762 -        0   66026.543 -        0   66548.128 -        0
+mtART+F+R4       -32913.749   66027.498 -        0   66041.978 -        0   66558.553 -        0
+FLAVI+I+R4       -33077.050   66318.100 -        0   66327.733 -        0   66753.565 -        0
+FLAVI+R4         -33087.981   66337.962 -        0   66347.357 -        0   66768.117 -        0
+mtZOA+R4         -33261.529   66685.059 -        0   66694.453 -        0   67115.213 -        0
+mtZOA+I+R4       -33258.299   66680.598 -        0   66690.231 -        0   67116.063 -        0
+LG+I             -33370.003   66892.005 -        0   66900.254 -        0   67295.607 -        0
+HIVw+F+I+R4      -33281.421   66764.841 -        0   66779.622 -        0   67301.207 -        0
+HIVw+F+R4        -33290.723   66781.447 -        0   66795.927 -        0   67312.502 -        0
+mtMet+I+R4       -33416.065   66996.131 -        0   67005.764 -        0   67431.596 -        0
+mtMet+R4         -33420.653   67003.306 -        0   67012.700 -        0   67433.460 -        0
+mtREV+I+R4       -33528.802   67221.605 -        0   67231.238 -        0   67657.070 -        0
+mtREV+R4         -33535.512   67233.024 -        0   67242.418 -        0   67663.178 -        0
+mtVer+I+R4       -33610.315   67384.630 -        0   67394.264 -        0   67820.095 -        0
+mtVer+R4         -33615.673   67393.346 -        0   67402.741 -        0   67823.501 -        0
+mtInv+I+R4       -33674.582   67513.165 -        0   67522.798 -        0   67948.630 -        0
+mtInv+R4         -33679.868   67521.736 -        0   67531.131 -        0   67951.891 -        0
+LG               -33880.556   67911.113 -        0   67919.141 -        0   68309.404 -        0
+HIVw+I+R4        -33901.914   67967.827 -        0   67977.461 -        0   68403.292 -        0
+HIVw+R4          -33907.374   67976.748 -        0   67986.143 -        0   68406.903 -        0
+mtART+I+R4       -34016.864   68197.728 -        0   68207.362 -        0   68633.193 -        0
+mtART+R4         -34022.612   68207.224 -        0   68216.619 -        0   68637.379 -        0
+mtMAM+I+R4       -34067.322   68298.645 -        0   68308.278 -        0   68734.110 -        0
+mtMAM+R4         -34076.842   68315.684 -        0   68325.078 -        0   68745.838 -        0
+
+AIC, w-AIC   : Akaike information criterion scores and weights.
+AICc, w-AICc : Corrected AIC scores and weights.
+BIC, w-BIC   : Bayesian information criterion scores and weights.
+
+Plus signs denote the 95% confidence sets.
+Minus signs denote significant exclusion.
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: Q.plant+I+R4
+
+State frequencies: (model)
+
+Model of rate heterogeneity: Invar+FreeRate with 4 categories
+Proportion of invariable sites: 0.0849
+Site proportion and rates:  (0.3201,0.1855) (0.3266,0.6713) (0.1976,1.9632) (0.0709,4.7046)
+
+ Category  Relative_rate  Proportion
+  0         0              0.0849
+  1         0.1855         0.3201
+  2         0.6713         0.3266
+  3         1.9632         0.1976
+  4         4.7046         0.0709
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -31970.4271 (s.e. 657.1401)
+Unconstrained log-likelihood (without tree): -10428.3733
+Number of free parameters (#branches + #model parameters): 82
+Akaike information criterion (AIC) score: 64104.8542
+Corrected Akaike information criterion (AICc) score: 64114.4876
+Bayesian information criterion (BIC) score: 64540.3193
+
+Total tree length (sum of branch lengths): 9.9159
+Sum of internal branch lengths: 6.1664 (62.1871% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo' is drawn at root
+Numbers in parentheses are  ultrafast bootstrap support (%)
+
++--D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+|
+|        +--C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_
+|     +--| (80)
+|     |  |                                                               +--G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg
+|     |  |                                                            +--| (100)
+|     |  |                                                            |  +--S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                         +--| (94)
+|     |  |                                                         |  +--D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                      +--| (100)
+|     |  |                                                      |  |  +--S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al
+|     |  |                                                      |  +--| (100)
+|     |  |                                                      |     +--D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                   +--| (92)
+|     |  |                                                   |  |           +--C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske
+|     |  |                                                   |  |        +--| (81)
+|     |  |                                                   |  |        |  +--G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                   |  |     +--| (100)
+|     |  |                                                   |  |     |  +--S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha
+|     |  |                                                   |  |  +--| (89)
+|     |  |                                                   |  |  |  |     +--F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske
+|     |  |                                                   |  |  |  |  +--| (66)
+|     |  |                                                   |  |  |  |  |  +--E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_
+|     |  |                                                   |  |  |  +--| (100)
+|     |  |                                                   |  |  |     +--H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s
+|     |  |                                                   |  +--| (100)
+|     |  |                                                   |     +--X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a
+|     |  |                                                +--| (100)
+|     |  |                                                |  +----C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp
+|     |  |                                             +--| (85)
+|     |  |                                             |  +--C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun
+|     |  |                                          +--| (71)
+|     |  |                                          |  |           +--F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+|     |  |                                          |  |        +--| (97)
+|     |  |                                          |  |        |  +--E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_
+|     |  |                                          |  |     +--| (100)
+|     |  |                                          |  |     |  +--H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l
+|     |  |                                          |  |  +--| (100)
+|     |  |                                          |  |  |  |     +--G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li
+|     |  |                                          |  |  |  |  +--| (98)
+|     |  |                                          |  |  |  |  |  +--C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+|     |  |                                          |  |  |  +--| (100)
+|     |  |                                          |  |  |     +--S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha
+|     |  |                                          |  +--| (99)
+|     |  |                                          |     |  +--X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a
+|     |  |                                          |     +--| (100)
+|     |  |                                          |        +--X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a
+|     |  +------------------------------------------| (100)
+|     |                                             |        +--S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al
+|     |                                             |     +--| (100)
+|     |                                             |     |  +**S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al
+|     |                                             |  +--| (95)
+|     |                                             |  |  +--G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha
+|     |                                             +--| (99)
+|     |                                                +--D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+|  +--| (100)
+|  |  |           +--C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+|  |  |        +--| (99)
+|  |  |        |  +--S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i
+|  |  |     +--| (78)
+|  |  |     |  +--G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof
+|  |  |  +--| (99)
+|  |  |  |  |     +--E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta
+|  |  |  |  |  +--| (73)
+|  |  |  |  |  |  +--F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+|  |  |  |  +--| (100)
+|  |  |  |     +--H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso
+|  |  +--| (66)
+|  |     |  +--X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is
+|  |     +--| (99)
+|  |        +--X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula
++--| (85)
+|  +--G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i
+|
+|  +--S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
++--| (100)
+   +--S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be
+
+Tree in newick format:
+
+(D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0965412399,(((C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_:0.2908923071,((((((((G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg:0.2510160683,S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1003941906)100:0.0466552312,D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1296930471)94:0.0436622710,(S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al:0.1773484421,D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1972424367)100:0.1142353397)100:0.2662777406,((((C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske:0.1035029001,G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1637984674)81:0.0175975174,S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha:0.1177843094)100:0.0639058772,((F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske:0.0219316668,E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_:0.0283627084)66:0.0115069034,H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s:0.0145920705)100:0.1501874607)89:0.0340557957,X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a:0.2652512749)100:0.0828626559)92:0.0336339741,C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp:0.4069507743)100:0.1914187612,C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun:0.2289959972)85:0.0601151787,((((F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv:0.0144276700,E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_:0.0202146659)97:0.0155686693,H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l:0.0270295749)100:0.1244368226,((G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li:0.1258957442,C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv:0.0439045128)98:0.0172910126,S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha:0.0901657817)100:0.0423210262)100:0.0471898013,(X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a:0.0284974954,X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a:0.0178700343)100:0.1523897909)99:0.0486648788)71:0.0573859243,(((S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al:0.0036013064,S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al:0.0000023080)100:0.0920702531,G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha:0.1210768736)95:0.0302815620,D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv:0.0754458616)99:0.1483435453)100:3.4248876020)80:0.1065315954,((((C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0569199651,S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i:0.0938877443)99:0.0458936523,G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof:0.1097156614)78:0.0264923192,((E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta:0.0291044196,F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0493647474)73:0.0075894003,H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso:0.0338422107)100:0.0996823208)99:0.0610253527,(X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is:0.0237893446,X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula:0.0433739978)99:0.1803289895)66:0.0357005338)100:0.1854919886,G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i:0.1064086867)85:0.0238762245,(S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0220178792,S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be:0.0186307504)100:0.0768513093);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 1000 bootstrap trees
+Log-likelihood of consensus tree: -31970.426816
+Robinson-Foulds distance between ML tree and consensus tree: 0
+
+Branches with support >0.000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++--D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+|
+|        +--C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_
+|     +--| (80)
+|     |  |                                                               +--G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg
+|     |  |                                                            +--| (100)
+|     |  |                                                            |  +--S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                         +--| (94)
+|     |  |                                                         |  +--D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                      +--| (100)
+|     |  |                                                      |  |  +--S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al
+|     |  |                                                      |  +--| (100)
+|     |  |                                                      |     +--D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                   +--| (92)
+|     |  |                                                   |  |           +--C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske
+|     |  |                                                   |  |        +--| (81)
+|     |  |                                                   |  |        |  +--G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+|     |  |                                                   |  |     +--| (100)
+|     |  |                                                   |  |     |  +--S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha
+|     |  |                                                   |  |  +--| (89)
+|     |  |                                                   |  |  |  |     +--F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske
+|     |  |                                                   |  |  |  |  +--| (66)
+|     |  |                                                   |  |  |  |  |  +--E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_
+|     |  |                                                   |  |  |  +--| (100)
+|     |  |                                                   |  |  |     +--H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s
+|     |  |                                                   |  +--| (100)
+|     |  |                                                   |     +--X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a
+|     |  |                                                +--| (100)
+|     |  |                                                |  +----C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp
+|     |  |                                             +--| (85)
+|     |  |                                             |  +--C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun
+|     |  |                                          +--| (71)
+|     |  |                                          |  |           +--F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+|     |  |                                          |  |        +--| (97)
+|     |  |                                          |  |        |  +--E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_
+|     |  |                                          |  |     +--| (100)
+|     |  |                                          |  |     |  +--H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l
+|     |  |                                          |  |  +--| (100)
+|     |  |                                          |  |  |  |     +--G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li
+|     |  |                                          |  |  |  |  +--| (98)
+|     |  |                                          |  |  |  |  |  +--C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+|     |  |                                          |  |  |  +--| (100)
+|     |  |                                          |  |  |     +--S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha
+|     |  |                                          |  +--| (99)
+|     |  |                                          |     |  +--X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a
+|     |  |                                          |     +--| (100)
+|     |  |                                          |        +--X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a
+|     |  +------------------------------------------| (100)
+|     |                                             |        +--S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al
+|     |                                             |     +--| (100)
+|     |                                             |     |  +--S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al
+|     |                                             |  +--| (95)
+|     |                                             |  |  +--G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha
+|     |                                             +--| (99)
+|     |                                                +--D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+|  +--| (100)
+|  |  |           +--C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+|  |  |        +--| (99)
+|  |  |        |  +--S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i
+|  |  |     +--| (78)
+|  |  |     |  +--G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof
+|  |  |  +--| (99)
+|  |  |  |  |     +--E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta
+|  |  |  |  |  +--| (73)
+|  |  |  |  |  |  +--F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+|  |  |  |  +--| (100)
+|  |  |  |     +--H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso
+|  |  +--| (66)
+|  |     |  +--X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is
+|  |     +--| (99)
+|  |        +--X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula
++--| (85)
+|  +--G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i
+|
+|  +--S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
++--| (100)
+   +--S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be
+
+
+Consensus tree in newick format: 
+
+(D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0966771647,(((C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_:0.2913785039,((((((((G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg:0.2514635186,S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1005812831)100:0.0467205447,D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1299288720)94:0.0437357895,(S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al:0.1776866335,D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1976230355)100:0.1144184848)100:0.2668011061,((((C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske:0.1036976568,G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk:0.1641266477)81:0.0176225794,S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha:0.1180184237)100:0.0640031408,((F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske:0.0219719032,E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_:0.0284159685)66:0.0115246883,H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s:0.0146182515)100:0.1504881593)89:0.0340920517,X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a:0.2657739803)100:0.0829929458)92:0.0336667671,C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp:0.4076686625)100:0.1917361114,C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun:0.2293816244)85:0.0602115545,((((F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv:0.0144478728,E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_:0.0202457086)97:0.0155935449,H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l:0.0270677416)100:0.1246368168,((G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li:0.1260892822,C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv:0.0439743037)98:0.0173114835,S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha:0.0903037332)100:0.0423760857)100:0.0472537345,(X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a:0.0285392362,X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a:0.0178981550)100:0.1526402665)99:0.0487093845)71:0.0583488337,(((S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al:0.0036062877,S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al:0.0000023065)100:0.0922090361,G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha:0.1212490018)95:0.0303216686,D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv:0.0755475883)99:0.1477686898)100:3.4293711306)80:0.1066311248,((((C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0569913077,S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i:0.0940178313)99:0.0459497530,G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof:0.1098688581)78:0.0265157301,((E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta:0.0291414029,F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0494295875)73:0.0075989974,H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso:0.0338841900)100:0.0998232032)99:0.0611112235,(X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is:0.0238192978,X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula:0.0434346592)99:0.1805667997)66:0.0357392085)100:0.1857615314,G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i:0.1065578269)85:0.0238854646,(S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo:0.0220458088,S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be:0.0186582876)100:0.0769816973);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t /home/bio312-user/lab05-s1-kvsantos/myprotein/myprotein.homologsf.al.fas.treefile -m "Q.plant+I{0.0848953}+R4{0.320064,0.185541,0.326583,0.671332,0.197568,1.96316,0.0708903,4.70462}" --length 1496
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s /home/bio312-user/lab05-s1-kvsantos/myprotein/myprotein.homologsf.al.fas --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s /home/bio312-user/lab05-s1-kvsantos/myprotein/myprotein.homologsf.al.fas --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Thu Sep 26 13:44:08 2024
+Total CPU time used: 933.02499 seconds (0h:15m:33s)
+Total wall-clock time used: 472.3111922 seconds (0h:7m:52s)
+
