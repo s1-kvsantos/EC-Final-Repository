@@ -1,0 +1,881 @@
+<recPhylo>
+  <spTree>
+    <phylogeny>
+      <clade>
+        <name>Gnathostomata</name>
+        <clade>
+          <name>Euteleostomi</name>
+          <clade>
+            <name>Tetrapoda</name>
+            <clade>
+              <name>Amniota</name>
+              <clade>
+                <name>Boreoeutheria</name>
+                <clade>
+                  <name>Laurasiatheria</name>
+                  <clade>
+                    <name>E.caballus</name>
+                  </clade>
+                  <clade>
+                    <name>F.catus</name>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>H.sapiens</name>
+                </clade>
+              </clade>
+              <clade>
+                <name>Sauria</name>
+                <clade>
+                  <name>Archelosauria</name>
+                  <clade>
+                    <name>G.gallus</name>
+                  </clade>
+                  <clade>
+                    <name>C.mydas</name>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>S.townsendi</name>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>X.laevis</name>
+            </clade>
+          </clade>
+          <clade>
+            <name>Clupeocephala</name>
+            <clade>
+              <name>Euteleosteomorpha</name>
+              <clade>
+                <name>G.aculeatus</name>
+              </clade>
+              <clade>
+                <name>S.salar</name>
+              </clade>
+            </clade>
+            <clade>
+              <name>D.rerio</name>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>C.carcharias</name>
+        </clade>
+      </clade>
+    </phylogeny>
+  </spTree>
+  <recGeneTree>
+    <phylogeny rooted="true">
+      <clade>
+        <name>n119</name>
+        <confidence>1.0</confidence>
+        <branch_length>1.0</branch_length>
+        <eventsRec>
+          <duplication speciesLocation="Gnathostomata"></duplication>
+        </eventsRec>
+        <clade>
+          <name>n93</name>
+          <confidence>1.0</confidence>
+          <branch_length>1.4447457248</branch_length>
+          <eventsRec>
+            <duplication speciesLocation="Gnathostomata"></duplication>
+          </eventsRec>
+          <clade>
+            <name>n85</name>
+            <confidence>1.0</confidence>
+            <branch_length>0.0573859243</branch_length>
+            <eventsRec>
+              <duplication speciesLocation="Gnathostomata"></duplication>
+            </eventsRec>
+            <clade>
+              <name>n69</name>
+              <confidence>1.0</confidence>
+              <branch_length>0.0601151787</branch_length>
+              <eventsRec>
+                <duplication speciesLocation="Gnathostomata"></duplication>
+              </eventsRec>
+              <clade>
+                <name>n67</name>
+                <confidence>1.0</confidence>
+                <branch_length>0.1914187612</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Gnathostomata"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>n65</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0336339741</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Euteleostomi"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>n51</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.2662777406</branch_length>
+                    <eventsRec>
+                      <duplication speciesLocation="Clupeocephala"></duplication>
+                    </eventsRec>
+                    <clade>
+                      <name>n47</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.043662271</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Clupeocephala"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>n45</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0466552312</branch_length>
+                        <eventsRec>
+                          <speciation speciesLocation="Euteleosteomorpha"></speciation>
+                        </eventsRec>
+                        <clade>
+                          <name>S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.1003941906</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="S.salar" geneName="S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk"></leaf>
+                          </eventsRec>
+                        </clade>
+                        <clade>
+                          <name>G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.2510160683</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="G.aculeatus" geneName="G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg"></leaf>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.1296930471</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="D.rerio" geneName="D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk"></leaf>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>n50</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.1142353397</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Clupeocephala"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.1972424367</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="D.rerio" geneName="D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk"></leaf>
+                        </eventsRec>
+                      </clade>
+                      <clade>
+                        <name>r79</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>1.0</branch_length>
+                        <eventsRec>
+                          <speciation speciesLocation="Euteleosteomorpha"></speciation>
+                        </eventsRec>
+                        <clade>
+                          <name>S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.1773484421</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="S.salar" geneName="S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al"></leaf>
+                          </eventsRec>
+                        </clade>
+                        <clade>
+                          <name>G.aculeatus*LOST</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>1.0</branch_length>
+                          <eventsRec>
+                            <loss speciesLocation="G.aculeatus"></loss>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>n64</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0828626559</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Tetrapoda"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>n62</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0340557957</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Amniota"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>n56</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0639058772</branch_length>
+                        <eventsRec>
+                          <speciation speciesLocation="Sauria"></speciation>
+                        </eventsRec>
+                        <clade>
+                          <name>n54</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0175975174</branch_length>
+                          <eventsRec>
+                            <speciation speciesLocation="Archelosauria"></speciation>
+                          </eventsRec>
+                          <clade>
+                            <name>G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk</name>
+                            <confidence>1.0</confidence>
+                            <branch_length>0.1637984674</branch_length>
+                            <eventsRec>
+                              <leaf speciesLocation="G.gallus" geneName="G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk"></leaf>
+                            </eventsRec>
+                          </clade>
+                          <clade>
+                            <name>C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske</name>
+                            <confidence>1.0</confidence>
+                            <branch_length>0.1035029001</branch_length>
+                            <eventsRec>
+                              <leaf speciesLocation="C.mydas" geneName="C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske"></leaf>
+                            </eventsRec>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.1177843094</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="S.townsendi" geneName="S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha"></leaf>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>n61</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.1501874607</branch_length>
+                        <eventsRec>
+                          <speciation speciesLocation="Boreoeutheria"></speciation>
+                        </eventsRec>
+                        <clade>
+                          <name>n59</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0115069034</branch_length>
+                          <eventsRec>
+                            <speciation speciesLocation="Laurasiatheria"></speciation>
+                          </eventsRec>
+                          <clade>
+                            <name>E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_</name>
+                            <confidence>1.0</confidence>
+                            <branch_length>0.0283627084</branch_length>
+                            <eventsRec>
+                              <leaf speciesLocation="E.caballus" geneName="E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_"></leaf>
+                            </eventsRec>
+                          </clade>
+                          <clade>
+                            <name>F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske</name>
+                            <confidence>1.0</confidence>
+                            <branch_length>0.0219316668</branch_length>
+                            <eventsRec>
+                              <leaf speciesLocation="F.catus" geneName="F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske"></leaf>
+                            </eventsRec>
+                          </clade>
+                        </clade>
+                        <clade>
+                          <name>H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0145920705</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="H.sapiens" geneName="H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s"></leaf>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.2652512749</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="X.laevis" geneName="X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a"></leaf>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.4069507743</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="C.carcharias" geneName="C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp"></leaf>
+                  </eventsRec>
+                </clade>
+              </clade>
+              <clade>
+                <name>r81</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Gnathostomata"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.2289959972</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="C.carcharias" geneName="C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun"></leaf>
+                  </eventsRec>
+                </clade>
+                <clade>
+                  <name>Euteleostomi*LOST</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <loss speciesLocation="Euteleostomi"></loss>
+                  </eventsRec>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>r85</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <speciation speciesLocation="Gnathostomata"></speciation>
+              </eventsRec>
+              <clade>
+                <name>r83</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Euteleostomi"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>n84</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0486648788</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Tetrapoda"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>n80</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0471898013</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Amniota"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>n74</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.1244368226</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Boreoeutheria"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>n72</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0155686693</branch_length>
+                        <eventsRec>
+                          <speciation speciesLocation="Laurasiatheria"></speciation>
+                        </eventsRec>
+                        <clade>
+                          <name>E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0202146659</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="E.caballus" geneName="E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_"></leaf>
+                          </eventsRec>
+                        </clade>
+                        <clade>
+                          <name>F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.01442767</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="F.catus" geneName="F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv"></leaf>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0270295749</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="H.sapiens" geneName="H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l"></leaf>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>n79</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0423210262</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Sauria"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>n77</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0172910126</branch_length>
+                        <eventsRec>
+                          <speciation speciesLocation="Archelosauria"></speciation>
+                        </eventsRec>
+                        <clade>
+                          <name>C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.0439045128</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="C.mydas" geneName="C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv"></leaf>
+                          </eventsRec>
+                        </clade>
+                        <clade>
+                          <name>G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li</name>
+                          <confidence>1.0</confidence>
+                          <branch_length>0.1258957442</branch_length>
+                          <eventsRec>
+                            <leaf speciesLocation="G.gallus" geneName="G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li"></leaf>
+                          </eventsRec>
+                        </clade>
+                      </clade>
+                      <clade>
+                        <name>S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0901657817</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="S.townsendi" geneName="S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha"></leaf>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>n83</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.1523897909</branch_length>
+                    <eventsRec>
+                      <duplication speciesLocation="X.laevis"></duplication>
+                    </eventsRec>
+                    <clade>
+                      <name>X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0178700343</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="X.laevis" geneName="X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0284974954</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="X.laevis" geneName="X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a"></leaf>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>Clupeocephala*LOST</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <loss speciesLocation="Clupeocephala"></loss>
+                  </eventsRec>
+                </clade>
+              </clade>
+              <clade>
+                <name>C.carcharias*LOST</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <loss speciesLocation="C.carcharias"></loss>
+                </eventsRec>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>r89</name>
+            <confidence>1.0</confidence>
+            <branch_length>1.0</branch_length>
+            <eventsRec>
+              <speciation speciesLocation="Gnathostomata"></speciation>
+            </eventsRec>
+            <clade>
+              <name>r87</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <speciation speciesLocation="Euteleostomi"></speciation>
+              </eventsRec>
+              <clade>
+                <name>n92</name>
+                <confidence>1.0</confidence>
+                <branch_length>0.1483435453</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Clupeocephala"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>n90</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.030281562</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Euteleosteomorpha"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>n88</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0920702531</branch_length>
+                    <eventsRec>
+                      <duplication speciesLocation="S.salar"></duplication>
+                    </eventsRec>
+                    <clade>
+                      <name>S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>2.308e-06</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="S.salar" geneName="S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0036013064</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="S.salar" geneName="S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al"></leaf>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.1210768736</branch_length>
+                    <eventsRec>
+                      <leaf speciesLocation="G.aculeatus" geneName="G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha"></leaf>
+                    </eventsRec>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0754458616</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="D.rerio" geneName="D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv"></leaf>
+                  </eventsRec>
+                </clade>
+              </clade>
+              <clade>
+                <name>Tetrapoda*LOST</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <loss speciesLocation="Tetrapoda"></loss>
+                </eventsRec>
+              </clade>
+            </clade>
+            <clade>
+              <name>C.carcharias*LOST</name>
+              <confidence>1.0</confidence>
+              <branch_length>1.0</branch_length>
+              <eventsRec>
+                <loss speciesLocation="C.carcharias"></loss>
+              </eventsRec>
+            </clade>
+          </clade>
+        </clade>
+        <clade>
+          <name>n118</name>
+          <confidence>1.0</confidence>
+          <branch_length>1.9801418772</branch_length>
+          <eventsRec>
+            <speciation speciesLocation="Gnathostomata"></speciation>
+          </eventsRec>
+          <clade>
+            <name>n116</name>
+            <confidence>1.0</confidence>
+            <branch_length>0.1065315954</branch_length>
+            <eventsRec>
+              <speciation speciesLocation="Euteleostomi"></speciation>
+            </eventsRec>
+            <clade>
+              <name>n100</name>
+              <confidence>1.0</confidence>
+              <branch_length>0.1854919886</branch_length>
+              <eventsRec>
+                <duplication speciesLocation="Clupeocephala"></duplication>
+              </eventsRec>
+              <clade>
+                <name>n98</name>
+                <confidence>1.0</confidence>
+                <branch_length>0.0238762245</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Clupeocephala"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>r91</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Euteleosteomorpha"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>n96</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0768513093</branch_length>
+                    <eventsRec>
+                      <duplication speciesLocation="S.salar"></duplication>
+                    </eventsRec>
+                    <clade>
+                      <name>S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0186307504</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="S.salar" geneName="S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0220178792</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="S.salar" geneName="S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo"></leaf>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>G.aculeatus*LOST</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <loss speciesLocation="G.aculeatus"></loss>
+                    </eventsRec>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0965412399</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="D.rerio" geneName="D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo"></leaf>
+                  </eventsRec>
+                </clade>
+              </clade>
+              <clade>
+                <name>r95</name>
+                <confidence>1.0</confidence>
+                <branch_length>1.0</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Clupeocephala"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>r93</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Euteleosteomorpha"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.1064086867</branch_length>
+                    <eventsRec>
+                      <leaf speciesLocation="G.aculeatus" geneName="G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i"></leaf>
+                    </eventsRec>
+                  </clade>
+                  <clade>
+                    <name>S.salar*LOST</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <loss speciesLocation="S.salar"></loss>
+                    </eventsRec>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>D.rerio*LOST</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>1.0</branch_length>
+                  <eventsRec>
+                    <loss speciesLocation="D.rerio"></loss>
+                  </eventsRec>
+                </clade>
+              </clade>
+            </clade>
+            <clade>
+              <name>n115</name>
+              <confidence>1.0</confidence>
+              <branch_length>0.0357005338</branch_length>
+              <eventsRec>
+                <speciation speciesLocation="Tetrapoda"></speciation>
+              </eventsRec>
+              <clade>
+                <name>n111</name>
+                <confidence>1.0</confidence>
+                <branch_length>0.0610253527</branch_length>
+                <eventsRec>
+                  <speciation speciesLocation="Amniota"></speciation>
+                </eventsRec>
+                <clade>
+                  <name>n105</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0264923192</branch_length>
+                  <eventsRec>
+                    <duplication speciesLocation="Sauria"></duplication>
+                  </eventsRec>
+                  <clade>
+                    <name>n103</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0458936523</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Sauria"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0938877443</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="S.townsendi" geneName="S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>r97</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Archelosauria"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.0569199651</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="C.mydas" geneName="C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo"></leaf>
+                        </eventsRec>
+                      </clade>
+                      <clade>
+                        <name>G.gallus*LOST</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>1.0</branch_length>
+                        <eventsRec>
+                          <loss speciesLocation="G.gallus"></loss>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>r101</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>1.0</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Sauria"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>r99</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <speciation speciesLocation="Archelosauria"></speciation>
+                      </eventsRec>
+                      <clade>
+                        <name>G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>0.1097156614</branch_length>
+                        <eventsRec>
+                          <leaf speciesLocation="G.gallus" geneName="G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof"></leaf>
+                        </eventsRec>
+                      </clade>
+                      <clade>
+                        <name>C.mydas*LOST</name>
+                        <confidence>1.0</confidence>
+                        <branch_length>1.0</branch_length>
+                        <eventsRec>
+                          <loss speciesLocation="C.mydas"></loss>
+                        </eventsRec>
+                      </clade>
+                    </clade>
+                    <clade>
+                      <name>S.townsendi*LOST</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>1.0</branch_length>
+                      <eventsRec>
+                        <loss speciesLocation="S.townsendi"></loss>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                </clade>
+                <clade>
+                  <name>n110</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0996823208</branch_length>
+                  <eventsRec>
+                    <speciation speciesLocation="Boreoeutheria"></speciation>
+                  </eventsRec>
+                  <clade>
+                    <name>n108</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0075894003</branch_length>
+                    <eventsRec>
+                      <speciation speciesLocation="Laurasiatheria"></speciation>
+                    </eventsRec>
+                    <clade>
+                      <name>F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0493647474</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="F.catus" geneName="F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo"></leaf>
+                      </eventsRec>
+                    </clade>
+                    <clade>
+                      <name>E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta</name>
+                      <confidence>1.0</confidence>
+                      <branch_length>0.0291044196</branch_length>
+                      <eventsRec>
+                        <leaf speciesLocation="E.caballus" geneName="E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta"></leaf>
+                      </eventsRec>
+                    </clade>
+                  </clade>
+                  <clade>
+                    <name>H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso</name>
+                    <confidence>1.0</confidence>
+                    <branch_length>0.0338422107</branch_length>
+                    <eventsRec>
+                      <leaf speciesLocation="H.sapiens" geneName="H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso"></leaf>
+                    </eventsRec>
+                  </clade>
+                </clade>
+              </clade>
+              <clade>
+                <name>n114</name>
+                <confidence>1.0</confidence>
+                <branch_length>0.1803289895</branch_length>
+                <eventsRec>
+                  <duplication speciesLocation="X.laevis"></duplication>
+                </eventsRec>
+                <clade>
+                  <name>X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0433739978</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="X.laevis" geneName="X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula"></leaf>
+                  </eventsRec>
+                </clade>
+                <clade>
+                  <name>X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is</name>
+                  <confidence>1.0</confidence>
+                  <branch_length>0.0237893446</branch_length>
+                  <eventsRec>
+                    <leaf speciesLocation="X.laevis" geneName="X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is"></leaf>
+                  </eventsRec>
+                </clade>
+              </clade>
+            </clade>
+          </clade>
+          <clade>
+            <name>C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_</name>
+            <confidence>1.0</confidence>
+            <branch_length>0.2908923071</branch_length>
+            <eventsRec>
+              <leaf speciesLocation="C.carcharias" geneName="C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_"></leaf>
+            </eventsRec>
+          </clade>
+        </clade>
+      </clade>
+    </phylogeny>
+  </recGeneTree>
+</recPhylo>
