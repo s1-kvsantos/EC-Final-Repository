@@ -1,0 +1,609 @@
+<svg height="1897.5" style="background-color:White" viewBox="-22.5 52.5 1981.75 2017.5" width="1692.5" xmlns="http://www.w3.org/2000/svg">
+<style>
+.species { font: italic ; font-size: 40px; fill: orange; } .gene_0 { font-size: 10px; fill:rgb(117, 86, 201); } 
+</style>
+<g transform="translate(  -22.5 1927.5) rotate(-90 0 0 ) ">
+<text class="species" transform="rotate(90 1360.0781,195)" x="1375.0781" y="215">
+Gnathostomata
+</text>
+<path d="M972.65625,325.5 L972.65625,127.5 L1319.5781,127.5 M1047.6563,325.5 L1047.6563,262.5 L1360.0781,262.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1010.15625,360)" x="1025.1563" y="380">
+Euteleostomi
+</text>
+<path d="M621.5625,490.5 L621.5625,322.5 L969.65625,322.5 M681.5625,490.5 L681.5625,397.5 L1010.15625,397.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 651.5625,517.5)" x="666.5625" y="537.5">
+Tetrapoda
+</text>
+<path d="M365.625,610.5 L365.625,487.5 L618.5625,487.5 M410.625,610.5 L410.625,547.5 L651.5625,547.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 388.125,630)" x="403.125" y="650">
+Amniota
+</text>
+<path d="M153.75,730.5 L153.75,607.5 L362.625,607.5 M198.75,730.5 L198.75,652.5 L388.125,652.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 176.25,750)" x="191.25" y="770">
+Boreoeutheria
+</text>
+<path d="M52.5,835.5 L52.5,727.5 L150.75,727.5 M97.5,835.5 L97.5,772.5 L176.25,772.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 75,855)" x="90" y="875">
+Laurasiatheria
+</text>
+<path d="M-22.5,1008 L-22.5,832.5 L49.5,832.5 M22.5,1008 L22.5,877.5 L75,877.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M-22.5,1008 L-22.5,1095 L22.5,1095 L22.5,1008" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 0,1027.5)" x="-15" y="995">
+E.caballus
+</text>
+<path d="M172.5,1008 L172.5,832.5 L100.5,832.5 M127.5,1008 L127.5,877.5 L75,877.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M127.5,1008 L127.5,1095 L172.5,1095 L172.5,1008" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 150,1027.5)" x="135" y="995">
+F.catus
+</text>
+<path d="M300,1008 L300,727.5 L201.75,727.5 M255,1008 L255,772.5 L176.25,772.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M255,1008 L255,1095 L300,1095 L300,1008" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 277.5,1027.5)" x="262.5" y="995">
+H.sapiens
+</text>
+<path d="M630,715.5 L630,607.5 L413.625,607.5 M570,715.5 L570,652.5 L388.125,652.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 600,750)" x="615" y="770">
+Sauria
+</text>
+<path d="M450,850.5 L450,712.5 L567,712.5 M510,850.5 L510,787.5 L600,787.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 480,877.5)" x="495" y="897.5">
+Archelosauria
+</text>
+<path d="M360,1000.5 L360,847.5 L447,847.5 M420,1000.5 L420,907.5 L480,907.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M360,1000.5 L360,1095 L420,1095 L420,1000.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 390,1027.5)" x="375" y="987.5">
+G.gallus
+</text>
+<path d="M600,1000.5 L600,847.5 L513,847.5 M540,1000.5 L540,907.5 L480,907.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M540,1000.5 L540,1095 L600,1095 L600,1000.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 570,1027.5)" x="555" y="987.5">
+C.mydas
+</text>
+<path d="M750,1000.5 L750,712.5 L633,712.5 M690,1000.5 L690,787.5 L600,787.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M690,1000.5 L690,1095 L750,1095 L750,1000.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 720,1027.5)" x="705" y="987.5">
+S.townsendi
+</text>
+<path d="M952.5,978 L952.5,487.5 L684.5625,487.5 M877.5,978 L877.5,547.5 L651.5625,547.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M877.5,978 L877.5,1095 L952.5,1095 L952.5,978" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 915,1027.5)" x="900" y="980">
+X.laevis
+</text>
+<path d="M1413.75,460.5 L1413.75,322.5 L1050.6563,322.5 M1323.75,460.5 L1323.75,397.5 L1010.15625,397.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1368.75,517.5)" x="1383.75" y="537.5">
+Clupeocephala
+</text>
+<path d="M1162.5,640.5 L1162.5,457.5 L1320.75,457.5 M1237.5,640.5 L1237.5,577.5 L1368.75,577.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1200,675)" x="1215" y="695">
+Euteleosteomorpha
+</text>
+<path d="M1027.5,993 L1027.5,637.5 L1159.5,637.5 M1102.5,993 L1102.5,712.5 L1200,712.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1027.5,993 L1027.5,1095 L1102.5,1095 L1102.5,993" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1065,1027.5)" x="1050" y="980">
+G.aculeatus
+</text>
+<path d="M1387.5,963 L1387.5,637.5 L1240.5,637.5 M1282.5,963 L1282.5,712.5 L1200,712.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1282.5,963 L1282.5,1095 L1387.5,1095 L1387.5,963" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1335,1027.5)" x="1320" y="965">
+S.salar
+</text>
+<path d="M1575,993 L1575,457.5 L1416.75,457.5 M1500,993 L1500,577.5 L1368.75,577.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1500,993 L1500,1095 L1575,1095 L1575,993" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1537.5,1027.5)" x="1522.5" y="980">
+D.rerio
+</text>
+<path d="M1747.5,993 L1747.5,127.5 L1400.5781,127.5 M1672.5,993 L1672.5,262.5 L1360.0781,262.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1672.5,993 L1672.5,1095 L1747.5,1095 L1747.5,993" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1710,1027.5)" x="1695" y="980">
+C.carcharias
+</text>
+<text class="species" transform="rotate(90 1807.5,1027.5)" x="1792.5" y="1010">
+FREE_LIVING
+</text>
+<path d="M1330.0781,129 l-6,-6 l12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<path d="M1327.0781,132 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1330.0781,135)" x="1340.0781" y="135">
+n119
+</text>
+<path d="M1330.0781,150 L1330.0781,135 L1330.0781,135" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1327.0781,147 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1330.0781,150)" x="1340.0781" y="150">
+n93
+</text>
+<path d="M1330.0781,165 L1330.0781,150 L1330.0781,150" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1327.0781,162 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1330.0781,165)" x="1340.0781" y="165">
+n85
+</text>
+<path d="M1330.0781,180 L1330.0781,165 L1330.0781,165" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1327.0781,177 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1330.0781,180)" x="1340.0781" y="180">
+n69
+</text>
+<path d="M1330.0781,195 L1330.0781,180 L1330.0781,180" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1330.0781" cy="195" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1330.0781,195)" x="1340.0781" y="195">
+n67
+</text>
+<path d="M980.15625,330 L980.15625,195 L1330.0781,195" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="980.15625" cy="330" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 980.15625,330)" x="990.15625" y="330">
+n65
+</text>
+<path d="M1391.25,465 L1391.25,330 L980.15625,330" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1388.25,462 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1391.25,465)" x="1401.25" y="465">
+n51
+</text>
+<path d="M1406.25,480 L1406.25,465 L1391.25,465" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1406.25" cy="480" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1406.25,480)" x="1416.25" y="480">
+n47
+</text>
+<path d="M1170,645 L1170,480 L1406.25,480" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1170" cy="645" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1170,645)" x="1180" y="645">
+n45
+</text>
+<path d="M1380,1095 L1380,645 L1170,645" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1374,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1375,1110)" x="1375" y="1110">
+S.salar_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+</text>
+<path d="M1035,1095 L1035,645 L1170,645" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1029,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1030,1110)" x="1030" y="1110">
+G.aculeatus_phka1a_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_reg
+</text>
+<path d="M1567.5,1095 L1567.5,480 L1406.25,480" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1561.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1562.5,1110)" x="1562.5" y="1110">
+D.rerio_phka1a_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+</text>
+<path d="M1391.25,495 L1391.25,465 L1391.25,465" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1391.25" cy="495" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1391.25,495)" x="1401.25" y="495">
+n50
+</text>
+<path d="M1552.5,1095 L1552.5,495 L1391.25,495" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1546.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1547.5,1110)" x="1547.5" y="1110">
+D.rerio_phka1b_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+</text>
+<path d="M1185,660 L1185,495 L1391.25,495" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1185" cy="660" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1185,660)" x="1195" y="660">
+r79
+</text>
+<path d="M1365,1095 L1365,660 L1185,660" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1359,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1360,1110)" x="1360" y="1110">
+S.salar_LOC106602956_phosphorylase_b_kinase_regulatory_subunit_al
+</text>
+<path d="M1050,1012.5 L1050,660 L1185,660" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1050,1006.5 l0,12 M1044,1012.5 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1050 1012.5)"/>
+<text class="gene_0" transform="rotate(90 1050,1012.5)" x="1060" y="1012.5">
+G.aculeatus*LOST
+</text>
+<path d="M629.0625,495 L629.0625,330 L980.15625,330" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="629.0625" cy="495" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 629.0625,495)" x="639.0625" y="495">
+n64
+</text>
+<path d="M373.125,615 L373.125,495 L629.0625,495" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="373.125" cy="615" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 373.125,615)" x="383.125" y="615">
+n62
+</text>
+<path d="M622.5,720 L622.5,615 L373.125,615" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="622.5" cy="720" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 622.5,720)" x="632.5" y="720">
+n56
+</text>
+<path d="M457.5,855 L457.5,720 L622.5,720" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="457.5" cy="855" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 457.5,855)" x="467.5" y="855">
+n54
+</text>
+<path d="M367.5,1095 L367.5,855 L457.5,855" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M361.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 362.5,1110)" x="362.5" y="1110">
+G.gallus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_sk
+</text>
+<path d="M592.5,1095 L592.5,855 L457.5,855" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M586.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 587.5,1110)" x="587.5" y="1110">
+C.mydas_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske
+</text>
+<path d="M742.5,1095 L742.5,720 L622.5,720" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M736.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 737.5,1110)" x="737.5" y="1110">
+S.townsendi_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha
+</text>
+<path d="M161.25,735 L161.25,615 L373.125,615" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="161.25" cy="735" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 161.25,735)" x="171.25" y="735">
+n61
+</text>
+<path d="M60,840 L60,735 L161.25,735" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="60" cy="840" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 60,840)" x="70" y="840">
+n59
+</text>
+<path d="M-15,1095 L-15,840 L60,840" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M-21,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 -20,1110)" x="-20" y="1110">
+E.caballus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_
+</text>
+<path d="M165,1095 L165,840 L60,840" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M159,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 160,1110)" x="160" y="1110">
+F.catus_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_ske
+</text>
+<path d="M292.5,1095 L292.5,735 L161.25,735" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M286.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 287.5,1110)" x="287.5" y="1110">
+H.sapiens_PHKA1_phosphorylase_b_kinase_regulatory_subunit_alpha_s
+</text>
+<path d="M945,1095 L945,495 L629.0625,495" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M939,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 940,1110)" x="940" y="1110">
+X.laevis_LOC108698269_phosphorylase_b_kinase_regulatory_subunit_a
+</text>
+<path d="M1740,1095 L1740,195 L1330.0781,195" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1734,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1735,1110)" x="1735" y="1110">
+C.carcharias_phka1a_phosphorylase_b_kinase_regulatory_subunit_alp
+</text>
+<path d="M1345.0781,210 L1345.0781,180 L1330.0781,180" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1345.0781" cy="210" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1345.0781,210)" x="1355.0781" y="210">
+r81
+</text>
+<path d="M1725,1095 L1725,210 L1345.0781,210" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1719,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1720,1110)" x="1720" y="1110">
+C.carcharias_LOC121290772_phosphorylase_b_kinase_regulatory_subun
+</text>
+<path d="M995.15625,345 L995.15625,210 L1345.0781,210" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M995.15625,339 l0,12 M989.15625,345 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 995.15625 345)"/>
+<text class="gene_0" transform="rotate(90 995.15625,345)" x="1005.15625" y="345">
+Euteleostomi*LOST
+</text>
+<path d="M1360.0781,225 L1360.0781,165 L1330.0781,165" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1360.0781" cy="225" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1360.0781,225)" x="1370.0781" y="225">
+r85
+</text>
+<path d="M1010.15625,360 L1010.15625,225 L1360.0781,225" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1010.15625" cy="360" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1010.15625,360)" x="1020.15625" y="360">
+r83
+</text>
+<path d="M644.0625,510 L644.0625,360 L1010.15625,360" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="644.0625" cy="510" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 644.0625,510)" x="654.0625" y="510">
+n84
+</text>
+<path d="M388.125,630 L388.125,510 L644.0625,510" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="388.125" cy="630" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 388.125,630)" x="398.125" y="630">
+n80
+</text>
+<path d="M176.25,750 L176.25,630 L388.125,630" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="176.25" cy="750" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 176.25,750)" x="186.25" y="750">
+n74
+</text>
+<path d="M75,855 L75,750 L176.25,750" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="75" cy="855" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 75,855)" x="85" y="855">
+n72
+</text>
+<path d="M0,1095 L0,855 L75,855" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M-6,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 -5,1110)" x="-5" y="1110">
+E.caballus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_
+</text>
+<path d="M150,1095 L150,855 L75,855" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M144,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 145,1110)" x="145" y="1110">
+F.catus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+</text>
+<path d="M277.5,1095 L277.5,750 L176.25,750" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M271.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 272.5,1110)" x="272.5" y="1110">
+H.sapiens_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_l
+</text>
+<path d="M607.5,735 L607.5,630 L388.125,630" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="607.5" cy="735" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 607.5,735)" x="617.5" y="735">
+n79
+</text>
+<path d="M472.5,870 L472.5,735 L607.5,735" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="472.5" cy="870" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 472.5,870)" x="482.5" y="870">
+n77
+</text>
+<path d="M577.5,1095 L577.5,870 L472.5,870" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M571.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 572.5,1110)" x="572.5" y="1110">
+C.mydas_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+</text>
+<path d="M382.5,1095 L382.5,870 L472.5,870" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M376.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 377.5,1110)" x="377.5" y="1110">
+G.gallus_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha_li
+</text>
+<path d="M727.5,1095 L727.5,735 L607.5,735" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M721.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 722.5,1110)" x="722.5" y="1110">
+S.townsendi_PHKA2_phosphorylase_b_kinase_regulatory_subunit_alpha
+</text>
+<path d="M915,997.5 L915,510 L644.0625,510" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M912,994.5 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 915,997.5)" x="925" y="997.5">
+n83
+</text>
+<path d="M930,1095 L930,997.5 L915,997.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M924,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 925,1110)" x="925" y="1110">
+X.laevis_LOC108708020_phosphorylase_b_kinase_regulatory_subunit_a
+</text>
+<path d="M915,1095 L915,997.5 L915,997.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M909,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 910,1110)" x="910" y="1110">
+X.laevis_LOC108709337_phosphorylase_b_kinase_regulatory_subunit_a
+</text>
+<path d="M1376.25,510 L1376.25,360 L1010.15625,360" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1376.25,504 l0,12 M1370.25,510 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1376.25 510)"/>
+<text class="gene_0" transform="rotate(90 1376.25,510)" x="1386.25" y="510">
+Clupeocephala*LOST
+</text>
+<path d="M1710,1027.5 L1710,225 L1360.0781,225" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1710,1021.5 l0,12 M1704,1027.5 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1710 1027.5)"/>
+<text class="gene_0" transform="rotate(90 1710,1027.5)" x="1720" y="1027.5">
+C.carcharias*LOST
+</text>
+<path d="M1375.0781,240 L1375.0781,150 L1330.0781,150" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1375.0781" cy="240" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1375.0781,240)" x="1385.0781" y="240">
+r89
+</text>
+<path d="M1025.1563,375 L1025.1563,240 L1375.0781,240" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1025.1563" cy="375" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1025.1563,375)" x="1035.1563" y="375">
+r87
+</text>
+<path d="M1361.25,525 L1361.25,375 L1025.1563,375" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1361.25" cy="525" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1361.25,525)" x="1371.25" y="525">
+n92
+</text>
+<path d="M1200,675 L1200,525 L1361.25,525" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1200" cy="675" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1200,675)" x="1210" y="675">
+n90
+</text>
+<path d="M1335,997.5 L1335,675 L1200,675" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1332,994.5 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1335,997.5)" x="1345" y="997.5">
+n88
+</text>
+<path d="M1350,1095 L1350,997.5 L1335,997.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1344,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1345,1110)" x="1345" y="1110">
+S.salar_LOC106574892_phosphorylase_b_kinase_regulatory_subunit_al
+</text>
+<path d="M1335,1095 L1335,997.5 L1335,997.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1329,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1330,1110)" x="1330" y="1110">
+S.salar_LOC106574897_phosphorylase_b_kinase_regulatory_subunit_al
+</text>
+<path d="M1065,1095 L1065,675 L1200,675" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1059,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1060,1110)" x="1060" y="1110">
+G.aculeatus_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha
+</text>
+<path d="M1537.5,1095 L1537.5,525 L1361.25,525" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1531.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1532.5,1110)" x="1532.5" y="1110">
+D.rerio_phka2_phosphorylase_b_kinase_regulatory_subunit_alpha_liv
+</text>
+<path d="M659.0625,525 L659.0625,375 L1025.1563,375" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M659.0625,519 l0,12 M653.0625,525 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 659.0625 525)"/>
+<text class="gene_0" transform="rotate(90 659.0625,525)" x="669.0625" y="525">
+Tetrapoda*LOST
+</text>
+<path d="M1695,1042.5 L1695,240 L1375.0781,240" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1695,1036.5 l0,12 M1689,1042.5 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1695 1042.5)"/>
+<text class="gene_0" transform="rotate(90 1695,1042.5)" x="1705" y="1042.5">
+C.carcharias*LOST
+</text>
+<path d="M1390.0781,255 L1390.0781,135 L1330.0781,135" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1390.0781" cy="255" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1390.0781,255)" x="1400.0781" y="255">
+n118
+</text>
+<path d="M1040.1563,390 L1040.1563,255 L1390.0781,255" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1040.1563" cy="390" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1040.1563,390)" x="1050.1563" y="390">
+n116
+</text>
+<path d="M1331.25,540 L1331.25,390 L1040.1563,390" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1328.25,537 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1331.25,540)" x="1341.25" y="540">
+n100
+</text>
+<path d="M1346.25,555 L1346.25,540 L1331.25,540" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1346.25" cy="555" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1346.25,555)" x="1356.25" y="555">
+n98
+</text>
+<path d="M1215,690 L1215,555 L1346.25,555" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1215" cy="690" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1215,690)" x="1225" y="690">
+r91
+</text>
+<path d="M1305,1042.5 L1305,690 L1215,690" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1302,1039.5 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1305,1042.5)" x="1315" y="1042.5">
+n96
+</text>
+<path d="M1320,1095 L1320,1042.5 L1305,1042.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1314,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1315,1110)" x="1315" y="1110">
+S.salar_LOC106587291_phosphorylase_b_kinase_regulatory_subunit_be
+</text>
+<path d="M1305,1095 L1305,1042.5 L1305,1042.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1299,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1300,1110)" x="1300" y="1110">
+S.salar_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+</text>
+<path d="M1080,1042.5 L1080,690 L1215,690" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1080,1036.5 l0,12 M1074,1042.5 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1080 1042.5)"/>
+<text class="gene_0" transform="rotate(90 1080,1042.5)" x="1090" y="1042.5">
+G.aculeatus*LOST
+</text>
+<path d="M1522.5,1095 L1522.5,555 L1346.25,555" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1516.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1517.5,1110)" x="1517.5" y="1110">
+D.rerio_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+</text>
+<path d="M1331.25,570 L1331.25,540 L1331.25,540" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1331.25" cy="570" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1331.25,570)" x="1341.25" y="570">
+r95
+</text>
+<path d="M1230,705 L1230,570 L1331.25,570" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="1230" cy="705" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1230,705)" x="1240" y="705">
+r93
+</text>
+<path d="M1095,1095 L1095,705 L1230,705" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1089,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1090,1110)" x="1090" y="1110">
+G.aculeatus_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_i
+</text>
+<path d="M1290,1087.5 L1290,705 L1230,705" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1290,1081.5 l0,12 M1284,1087.5 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1290 1087.5)"/>
+<text class="gene_0" transform="rotate(90 1290,1087.5)" x="1300" y="1087.5">
+S.salar*LOST
+</text>
+<path d="M1507.5,1057.5 L1507.5,570 L1331.25,570" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1507.5,1051.5 l0,12 M1501.5,1057.5 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 1507.5 1057.5)"/>
+<text class="gene_0" transform="rotate(90 1507.5,1057.5)" x="1517.5" y="1057.5">
+D.rerio*LOST
+</text>
+<path d="M674.0625,540 L674.0625,390 L1040.1563,390" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="674.0625" cy="540" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 674.0625,540)" x="684.0625" y="540">
+n115
+</text>
+<path d="M403.125,645 L403.125,540 L674.0625,540" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="403.125" cy="645" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 403.125,645)" x="413.125" y="645">
+n111
+</text>
+<path d="M577.5,750 L577.5,645 L403.125,645" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M574.5,747 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 577.5,750)" x="587.5" y="750">
+n105
+</text>
+<path d="M592.5,765 L592.5,750 L577.5,750" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="592.5" cy="765" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 592.5,765)" x="602.5" y="765">
+n103
+</text>
+<path d="M712.5,1095 L712.5,765 L592.5,765" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M706.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 707.5,1110)" x="707.5" y="1110">
+S.townsendi_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_i
+</text>
+<path d="M487.5,885 L487.5,765 L592.5,765" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="487.5" cy="885" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 487.5,885)" x="497.5" y="885">
+r97
+</text>
+<path d="M562.5,1095 L562.5,885 L487.5,885" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M556.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 557.5,1110)" x="557.5" y="1110">
+C.mydas_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+</text>
+<path d="M397.5,1035 L397.5,885 L487.5,885" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M397.5,1029 l0,12 M391.5,1035 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 397.5 1035)"/>
+<text class="gene_0" transform="rotate(90 397.5,1035)" x="407.5" y="1035">
+G.gallus*LOST
+</text>
+<path d="M577.5,780 L577.5,750 L577.5,750" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="577.5" cy="780" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 577.5,780)" x="587.5" y="780">
+r101
+</text>
+<path d="M502.5,900 L502.5,780 L577.5,780" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="502.5" cy="900" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 502.5,900)" x="512.5" y="900">
+r99
+</text>
+<path d="M412.5,1095 L412.5,900 L502.5,900" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M406.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 407.5,1110)" x="407.5" y="1110">
+G.gallus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isof
+</text>
+<path d="M547.5,1050 L547.5,900 L502.5,900" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M547.5,1044 l0,12 M541.5,1050 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 547.5 1050)"/>
+<text class="gene_0" transform="rotate(90 547.5,1050)" x="557.5" y="1050">
+C.mydas*LOST
+</text>
+<path d="M697.5,1050 L697.5,780 L577.5,780" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M697.5,1044 l0,12 M691.5,1050 l12,0" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3" transform="rotate(45 697.5 1050)"/>
+<text class="gene_0" transform="rotate(90 697.5,1050)" x="707.5" y="1050">
+S.townsendi*LOST
+</text>
+<path d="M191.25,765 L191.25,645 L403.125,645" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="191.25" cy="765" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 191.25,765)" x="201.25" y="765">
+n110
+</text>
+<path d="M90,870 L90,765 L191.25,765" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<circle cx="90" cy="870" fill="rgb(117, 86, 201)" opacity="0.9" r="4.5" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 90,870)" x="100" y="870">
+n108
+</text>
+<path d="M135,1095 L135,870 L90,870" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M129,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 130,1110)" x="130" y="1110">
+F.catus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_isofo
+</text>
+<path d="M15,1095 L15,870 L90,870" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M9,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 10,1110)" x="10" y="1110">
+E.caballus_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta
+</text>
+<path d="M262.5,1095 L262.5,765 L191.25,765" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M256.5,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 257.5,1110)" x="257.5" y="1110">
+H.sapiens_PHKB_phosphorylase_b_kinase_regulatory_subunit_beta_iso
+</text>
+<path d="M885,1042.5 L885,540 L674.0625,540" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M882,1039.5 l0,6 l6,0 l0,-6 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 885,1042.5)" x="895" y="1042.5">
+n114
+</text>
+<path d="M900,1095 L900,1042.5 L885,1042.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M894,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 895,1110)" x="895" y="1110">
+X.laevis_phkb.L_LOW_QUALITY_PROTEIN_phosphorylase_b_kinase_regula
+</text>
+<path d="M885,1095 L885,1042.5 L885,1042.5" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M879,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 880,1110)" x="880" y="1110">
+X.laevis_phkb.S_phosphorylase_b_kinase_regulatory_subunit_beta_is
+</text>
+<path d="M1680,1095 L1680,255 L1390.0781,255" fill="none" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="3"/>
+<path d="M1674,1095 a3,3,0,0,1,12,0 z" fill="rgb(117, 86, 201)" opacity="0.9" stroke="rgb(117, 86, 201)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1675,1110)" x="1675" y="1110">
+C.carcharias_phkb_phosphorylase_b_kinase_regulatory_subunit_beta_
+</text>
+</g>
+</svg>
